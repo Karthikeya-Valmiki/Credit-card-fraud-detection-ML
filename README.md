@@ -19,7 +19,7 @@ This repository includes the following files and directories:
   - Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
   - Performance evaluation and final model selection
   
-- **`data link.rtf`**: The RTF file which contains a kaggle link, where you can download the data file - "transactions.txt". Dataset used in the project, containing transaction details and labels for fraud detection. The dataset includes both numeric and categorical features.
+- **`data link.txt`**: The .txt file which contains a kaggle link, where you can download the data file - "transactions.txt". Dataset used in the project contains transaction details and labels for fraud detection. The dataset includes both numeric and categorical features.
 
 - **`requirements.txt`**: A file listing all the required Python libraries and dependencies for running the project, including machine learning and data manipulation packages such as `scikit-learn`, `keras`, `imblearn`, and `pandas`.
 
@@ -42,6 +42,10 @@ This repository includes the following files and directories:
    - Support Vector Classifier (SVC)
    - Neural Networks
 7. **Model Evaluation**: Hyperparameter tuning using GridSearchCV and RandomizedSearchCV, and evaluating model performance using classification metrics like accuracy, precision, recall, and F1 score.
+
+## Author
+
+**Karthikeya Valmiki**
 
 ## How to Run the Project
 
