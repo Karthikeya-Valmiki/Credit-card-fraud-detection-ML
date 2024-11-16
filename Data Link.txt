@@ -1,0 +1,3 @@
+DATA link: https://www.kaggle.com/datasets/iabhishekbhardwaj/fraud-detection/data
+
+Kindly download the file “transactions.txt” from the above link.
